@@ -92,7 +92,6 @@ export default function Home() {
             <a href="#about" className="btn-secondary">Tentang Saya</a>
           </div>
         </div>
-        <div className="scroll-indicator" />
       </section>
 
       {/* About */}
@@ -342,7 +341,7 @@ export default function Home() {
               <h3 className="experience-title">Staff Ekonomi Kreatif</h3>
               <div className="experience-org">Himpunan Mahasiswa Rekayasa Perangkat Lunak</div>
               <p className="experience-description">
-                Berkontribusi dalam semua program kerja EKRAF, dan diamanahi sebagaim Penanggung Jawab Bazar.
+                Berkontribusi dalam semua program kerja EKRAF, dan diamanahi sebagai Penanggung Jawab Bazar.
               </p>
             </div>
           </div>
@@ -434,7 +433,7 @@ export default function Home() {
               <h3 className="experience-title">Manajemen Acara</h3>
               <div className="experience-org">Masa Bimbingan Mahasiswa Baru RPL 2025</div>
               <p className="experience-description">
-                Bertanggungjawab dalam menjadi MC(Master of Ceremony) dalam acara Technical Meeting masa bimbingan mahasiswa baru.
+                Bertanggungjawab dalam menjadi MC (Master of Ceremony) dalam acara Technical Meeting masa bimbingan mahasiswa baru.
               </p>
             </div>
           </div>
