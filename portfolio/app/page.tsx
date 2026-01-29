@@ -77,15 +77,14 @@ export default function Home() {
       <section id="home" className="hero">
         <div className="hero-content">
           <div className="hero-label">
-            FRONTEND DEVELOPER & UI/UX DESIGNER
+            IT System & Digital Product Development Enthusiast
           </div>
           <h1>
             Mutia Yasinta's <br />
             <span className="gradient-text">Portfolio</span>
           </h1>
           <p>
-            Mahasiswa Rekayasa Perangkat Lunak yang passionate dalam
-            menciptakan antarmuka modern, fungsional, dan user-friendly
+            Mahasiswa Rekayasa Perangkat Lunak dengan pengalaman dalam pengembangan aplikasi web, perancangan UI/UX, serta analisis sistem untuk mendukung kebutuhan pengguna dan produk digital.
           </p>
           <div className="hero-buttons">
             <a href="#projects" className="btn-primary">Lihat Portfolio</a>
